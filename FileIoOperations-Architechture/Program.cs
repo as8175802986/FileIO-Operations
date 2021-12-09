@@ -12,7 +12,7 @@ namespace FileIoOperations_Architechture
             //ReadAllLines();
             //FIleCopy();
             //FileDelete();
-            StreamReader ReadFromStreamReader = new StreamReader();
+            StreamReader OperationStreamReader = new StreamReader();
             StreamReader.ReadFromStreamReader();
             StreamReader.WriteFromStreamWriter();
 
