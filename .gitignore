@@ -348,3 +348,8 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+.vs
+bin
+obj
+FileIoOperations-Architechture.csproj
+FileIoOperations-Architechture.sln
